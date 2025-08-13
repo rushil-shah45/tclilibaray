@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "705177094629",
+    "project_id": "tclilibrary-9ed4e",
+    "storage_bucket": "tclilibrary-9ed4e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705177094629:android:d5c6d8e123b49a01ce470c",
+        "android_client_info": {
+          "package_name": "com.tclilibrary.ca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705177094629-l3s0slcqep3vnijkvb02l8ht4kbe288k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tclilibrary.ca",
+            "certificate_hash": "66756343fd07f9413a6340ef773fe52690746538"
+          }
+        },
+        {
+          "client_id": "705177094629-1glja721g65eso0l2rl6b3flsg85cddf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuOUIOy6pIp-9BhgqIGbbQZLvRGQuugTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705177094629-1glja721g65eso0l2rl6b3flsg85cddf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "705177094629-cknbgtc1k8nca0s8hc5llgoq59r3u620.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tclilibrary"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

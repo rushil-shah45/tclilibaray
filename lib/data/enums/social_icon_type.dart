@@ -1,0 +1,1 @@
+enum IconType { username, number, mail, text, address, mobile, file, link}
